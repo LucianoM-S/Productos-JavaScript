@@ -5,7 +5,7 @@
         "precio": 24000,
         "categoria": "Discos",
         "stock": 10,
-        "imagen": "../img/disco10k.jpg"
+        "imagen": "./img/disco10k.jpg"
     },
     {
         "id": 2,
@@ -13,7 +13,7 @@
         "precio": 88100,
         "categoria": "Boxeo",
         "stock": 8,
-        "imagen": "../img/guantesboxeoproyec.jpg"
+        "imagen": "./img/guantesboxeoproyec.jpg"
     },
     {
         "id": 3,
@@ -21,7 +21,7 @@
         "precio": 24000,
         "categoria": "Barras",
         "stock": 5,
-        "imagen": "../img/barraolimpica16kg.jpg"
+        "imagen": "./img/barraolimpica16kg.jpg"
     },
     {
         "id": 4,
@@ -29,7 +29,7 @@
         "precio": 80000,
         "categoria": "Bancos",
         "stock": 4,
-        "imagen": "../img/bancoparaabdominales.jpg"
+        "imagen": "./img/bancoparaabdominales.jpg"
     },
     {
         "id": 5,
@@ -37,7 +37,7 @@
         "precio": 60000,
         "categoria": "Funcional",
         "stock": 6,
-        "imagen": "../img/cajon.jpg"
+        "imagen": "./img/cajon.jpg"
     },
     {
         "id": 6,
@@ -45,7 +45,7 @@
         "precio": 105000,
         "categoria": "Funcional",
         "stock": 4,
-        "imagen": "../img/paralelas.jpg"
+        "imagen": "./img/paralelas.jpg"
     },
     {
         "id": 7,
@@ -53,7 +53,7 @@
         "precio": 73000,
         "categoria": "Funcional",
         "stock": 8,
-        "imagen": "../img/anillasdesuspencion.jpg"
+        "imagen": "./img/anillasdesuspencion.jpg"
     },
     {
         "id": 8,
@@ -61,7 +61,7 @@
         "precio": 42000,
         "categoria": "Funcional",
         "stock": 7,
-        "imagen": "../img/cinturodelastre.jpg"
+        "imagen": "./img/cinturodelastre.jpg"
     },
     {
         "id": 9,
@@ -69,7 +69,7 @@
         "precio": 147000,
         "categoria": "Bancos",
         "stock": 3,
-        "imagen": "../img/bancoplano.jpg"
+        "imagen": "./img/bancoplano.jpg"
     },
     {
         "id": 10,
@@ -77,7 +77,7 @@
         "precio": 100000,
         "categoria": "Barras",
         "stock": 5,
-        "imagen": "../img/barraez.jpg"
+        "imagen": "./img/barraez.jpg"
     },
     {
         "id": 11,
@@ -85,7 +85,7 @@
         "precio": 13000,
         "categoria": "Discos",
         "stock": 20,
-        "imagen": "../img/discobodypump5kg.jpg"
+        "imagen": "./img/discobodypump5kg.jpg"
     },
     {
         "id": 12,
@@ -93,7 +93,7 @@
         "precio": 35000,
         "categoria": "Boxeo",
         "stock": 6,
-        "imagen": "../img/bolsaboxeo70cm.jpg"
+        "imagen": "./img/bolsaboxeo70cm.jpg"
     },
     {
         "id": 13,
@@ -101,7 +101,7 @@
         "precio": 78000,
         "categoria": "Boxeo",
         "stock": 5,
-        "imagen": "../img/cabezalraptor.jpg"
+        "imagen": "./img/cabezalraptor.jpg"
     },
     {
         "id": 14,
@@ -109,7 +109,7 @@
         "precio": 150000,
         "categoria": "Discos",
         "stock": 5,
-        "imagen": "../img/discobumper15kg.jpg"
+        "imagen": "./img/discobumper15kg.jpg"
     },
     {
         "id": 15,
@@ -117,7 +117,7 @@
         "precio": 111000,
         "categoria": "Funcional",
         "stock": 6,
-        "imagen": "../img/kettlebell16kg.jpg"
+        "imagen": "./img/kettlebell16kg.jpg"
     },
     {
         "id": 16,
@@ -125,7 +125,7 @@
         "precio": 38000,
         "categoria": "Funcional",
         "stock": 15,
-        "imagen": "../img/mat6mm.jpg"
+        "imagen": "./img/mat6mm.jpg"
     },
     {
         "id": 17,
@@ -133,7 +133,7 @@
         "precio": 136000,
         "categoria": "Boxeo",
         "stock": 4,
-        "imagen": "../img/pecheragolpes.jpg"
+        "imagen": "./img/pecheragolpes.jpg"
     },
     {
         "id": 18,
@@ -141,7 +141,7 @@
         "precio": 13000,
         "categoria": "Funcional",
         "stock": 20,
-        "imagen": "../img/pushup.jpg"
+        "imagen": "./img/pushup.jpg"
     },
     {
         "id": 19,
@@ -149,7 +149,7 @@
         "precio": 28000,
         "categoria": "Funcional",
         "stock": 12,
-        "imagen": "../img/rollmasajeador.jpg"
+        "imagen": "./img/rollmasajeador.jpg"
     },
     {
         "id": 20,
@@ -157,6 +157,6 @@
         "precio": 77000,
         "categoria": "Funcional",
         "stock": 8,
-        "imagen": "../img/step.jpg"
+        "imagen": "./img/step.jpg"
     }
 ]
