@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "nombre": "Disco 10KG",
+        "precio": 24000,
+        "categoria": "Discos",
+        "stock": 10,
+        "imagen": "../img/disco10k.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Guantes de Boxeo Proyec Forza",
+        "precio": 88100,
+        "categoria": "Boxeo",
+        "stock": 8,
+        "imagen": "../img/guantesboxeoproyec.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Barra Olímpica 16KG",
+        "precio": 24000,
+        "categoria": "Barras",
+        "stock": 5,
+        "imagen": "../img/barraolimpica16kg.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Banco para Abdominales",
+        "precio": 80000,
+        "categoria": "Bancos",
+        "stock": 4,
+        "imagen": "../img/bancoparaabdominales.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "Cajón de Salto",
+        "precio": 60000,
+        "categoria": "Funcional",
+        "stock": 6,
+        "imagen": "../img/cajon.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Paralelas",
+        "precio": 105000,
+        "categoria": "Funcional",
+        "stock": 4,
+        "imagen": "../img/paralelas.jpg"
+    },
+    {
+        "id": 7,
+        "nombre": "Anillas de Suspensión",
+        "precio": 73000,
+        "categoria": "Funcional",
+        "stock": 8,
+        "imagen": "../img/anillasdesuspencion.jpg"
+    },
+    {
+        "id": 8,
+        "nombre": "Cinturón de Lastre",
+        "precio": 42000,
+        "categoria": "Funcional",
+        "stock": 7,
+        "imagen": "../img/cinturodelastre.jpg"
+    },
+    {
+        "id": 9,
+        "nombre": "Banco Plano",
+        "precio": 147000,
+        "categoria": "Bancos",
+        "stock": 3,
+        "imagen": "../img/bancoplano.jpg"
+    },
+    {
+        "id": 10,
+        "nombre": "Barra EZ Maciza",
+        "precio": 100000,
+        "categoria": "Barras",
+        "stock": 5,
+        "imagen": "../img/barraez.jpg"
+    },
+    {
+        "id": 11,
+        "nombre": "Disco Body Pump 5KG",
+        "precio": 13000,
+        "categoria": "Discos",
+        "stock": 20,
+        "imagen": "../img/discobodypump5kg.jpg"
+    },
+    {
+        "id": 12,
+        "nombre": "Bolsa de Boxeo 70CM",
+        "precio": 35000,
+        "categoria": "Boxeo",
+        "stock": 6,
+        "imagen": "../img/bolsaboxeo70cm.jpg"
+    },
+    {
+        "id": 13,
+        "nombre": "Cabezal Raptor",
+        "precio": 78000,
+        "categoria": "Boxeo",
+        "stock": 5,
+        "imagen": "../img/cabezalraptor.jpg"
+    },
+    {
+        "id": 14,
+        "nombre": "Disco Bumper 15KG",
+        "precio": 150000,
+        "categoria": "Discos",
+        "stock": 5,
+        "imagen": "../img/discobumper15kg.jpg"
+    },
+    {
+        "id": 15,
+        "nombre": "Kettlebell 16KG",
+        "precio": 111000,
+        "categoria": "Funcional",
+        "stock": 6,
+        "imagen": "../img/kettlebell16kg.jpg"
+    },
+    {
+        "id": 16,
+        "nombre": "Mat 6MM",
+        "precio": 38000,
+        "categoria": "Funcional",
+        "stock": 15,
+        "imagen": "../img/mat6mm.jpg"
+    },
+    {
+        "id": 17,
+        "nombre": "Pechera de Golpes",
+        "precio": 136000,
+        "categoria": "Boxeo",
+        "stock": 4,
+        "imagen": "../img/pecheragolpes.jpg"
+    },
+    {
+        "id": 18,
+        "nombre": "Push Up",
+        "precio": 13000,
+        "categoria": "Funcional",
+        "stock": 20,
+        "imagen": "../img/pushup.jpg"
+    },
+    {
+        "id": 19,
+        "nombre": "Roll Masajeador",
+        "precio": 28000,
+        "categoria": "Funcional",
+        "stock": 12,
+        "imagen": "../img/rollmasajeador.jpg"
+    },
+    {
+        "id": 20,
+        "nombre": "Step",
+        "precio": 77000,
+        "categoria": "Funcional",
+        "stock": 8,
+        "imagen": "../img/step.jpg"
+    }
+]
