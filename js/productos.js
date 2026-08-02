@@ -16,7 +16,7 @@ async function cargarProductos() {
         if (productosGuardados.length > 0) {
             productos = productosGuardados;
         } else {
-            const respuesta = await fetch("../data/productos.json");
+            const respuesta = await fetch("./data/productos.json");
             if (!respuesta.ok) {
                 throw new Error("No se pudieron cargar los productos.");
             }
